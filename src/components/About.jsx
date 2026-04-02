@@ -28,7 +28,7 @@ const About = () => {
           applications, mobile apps, and scalable platforms with a focus on
           performance, security, and user experience.
           <p className="p-4 md:p-6 text-xs md:text-sm leading-loose font-semibold">
-            Viraj Soft Tech Solutions is committed to building reliable,
+            xyz Soft Tech Solutions is committed to building reliable,
             high-quality products that help brands grow and connect with their
             audience effectively. 📞 Contact: 1234567890 🏢 Company: Viraj Soft
             Tech Solutions 🧾 GST No: 23DBSHSJHS SEE MORE
